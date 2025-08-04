@@ -1,3 +1,3 @@
 # class-demo
 learning contents
-About java and python .
+About Java and python 
